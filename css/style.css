@@ -13,7 +13,7 @@
     font-weight: bold;
     background-color:#34AD54;
     width: 1600;
-    height: 900;
+    height: 300;
     font-size: 20px;
     color: black;
     
@@ -26,15 +26,15 @@
     height: 120px;
 }
 .sing{
-    padding-left: 1200px;
+    padding-center: 1200px;
     font-weight: bold;
 }
 .right{
-    margin-left: 250px;
+    margin-center: 250px;
     font-weight: bold;
 }
 .right1{
-    margin-left: 300px;
+    margin-center: 300px;
     font-weight: bold;
 }
 
@@ -46,7 +46,7 @@
     transition: .5s;
 }
 .our{
-    padding-left: 620px;
+    padding-center: 620px;
     text-decoration: underline;
     
 }
